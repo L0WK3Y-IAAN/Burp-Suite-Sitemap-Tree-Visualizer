@@ -98,10 +98,3 @@ Want to improve the script?
 ## **📄 License**
 This project is licensed under the **MIT License**.
 
----
-
-## **👨‍💻 Author**
-- **[Your Name]**  
-- GitHub: [Your GitHub](https://github.com/L0WK3Y-IAAN)  
-- Twitter: [Your Twitter](https://twitter.com/L0WK3Y_OFFICIAL)  
-
