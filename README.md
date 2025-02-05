@@ -47,8 +47,8 @@ This Python script **parses a Burp Suite sitemap XML export** and converts it in
 ## **🚀 Installation**
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/L0WK3Y-IAAN/burp-sitemap-parser.git
-   cd burp-sitemap-parser
+   git clone https://github.com/L0WK3Y-IAAN/Burp-Suite-Sitemap-Tree-Visualizer.git
+   cd Burp-Suite-Sitemap-Tree-Visualizer
    ```
 
 2. **Install dependencies**  
