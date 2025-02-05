@@ -2,6 +2,8 @@
 
 ## **📂 Burp Suite Sitemap Tree Visualizer**
 
+⚠️ This project is WIP, updates will follow ⚠️
+
 ### **📌 Overview**
 This Python script **parses a Burp Suite sitemap XML export** and converts it into a **hierarchical tree structure**, mimicking Burp Suite's built-in sitemap view.  
 
